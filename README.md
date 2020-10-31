@@ -1,7 +1,7 @@
 # Aplikasi-Kalkulator-Sederhana
 Aplikasi ini dibuat menggunakan bahasa pemrograman PHP dan include framework bootstrap.
 
-PROGRAM PENDUKUNG
+PROGRAM PENDUKUNG 
 1.Sublime Text 
 2.XAMPP 
 3.Chrome
@@ -17,9 +17,9 @@ FITUR APLIKASI
 
 
 PEMBUAT APLIKASI
-NAMA              : MUHAMMAD SYIFAA'UDZ DZIHNI AL HAMDI
-PROGRAM PELATIHAN : JUNIOR WEB DEVELOPER
-ASAL DOMISILI     : PEKALONGAN, JAWA TENGAH 
+1. NAMA              : MUHAMMAD SYIFAA'UDZ DZIHNI AL HAMDI
+2. PROGRAM PELATIHAN : JUNIOR WEB DEVELOPER
+3. ASAL DOMISILI     : PEKALONGAN, JAWA TENGAH 
 
                 ..COPYRIGHT BPPTIK KOMINFO.. 
                         By syifaaudz
