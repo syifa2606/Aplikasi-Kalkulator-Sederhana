@@ -1,13 +1,13 @@
 # Aplikasi-Kalkulator-Sederhana
 Aplikasi ini dibuat menggunakan bahasa pemrograman PHP dan include framework bootstrap.
 
-<===================PROGRAM PENDUKUNG==================>
+PROGRAM PENDUKUNG
 1.Sublime Text 
 2.XAMPP 
 3.Chrome
 
 
-<====================FITUR APLIKASI====================>
+FITUR APLIKASI
 1. Aplikasi dapat menghitung penjumlahan antar bilangan
 2. Aplikasi dapat menghitung pengurangan antar bilangan
 3. Aplikasi dapat menghitung perkalian antar bilangan
@@ -16,7 +16,7 @@ Aplikasi ini dibuat menggunakan bahasa pemrograman PHP dan include framework boo
 6. Mudah dalam pengoperasian
 
 
-<====================PEMBUAT APLIKASI===================>
+PEMBUAT APLIKASI
 NAMA              : MUHAMMAD SYIFAA'UDZ DZIHNI AL HAMDI
 PROGRAM PELATIHAN : JUNIOR WEB DEVELOPER
 ASAL DOMISILI     : PEKALONGAN, JAWA TENGAH 
